@@ -1,4 +1,4 @@
-Econometric Analysis of Crude Oil Prices and Inflation in India
+ECONOMETRIC ANALYSIS OF CRUDE OIL PRICES AND INFLATION IN INDIA
 
 OVERVIEW
 
