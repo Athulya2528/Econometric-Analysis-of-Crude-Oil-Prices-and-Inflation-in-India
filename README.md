@@ -7,8 +7,11 @@ This project explores the relationship between crude oil prices and inflation in
 OBJECTIVES
 
 •Examine the impact of crude oil prices on inflation in India.
+
 •Perform OLS regression to quantify the relationship between the two variables.
+
 •Conduct autocorrelation testing to verify the time-series dependency of residuals.
+
 •Visualize the trend and volatility of crude oil prices over time.
 
 METHODOLOGY
