@@ -17,15 +17,21 @@ OBJECTIVES
 METHODOLOGY
 
 •Data Import & Preprocessing
+
 •Dataset imported from Excel into Google Colab using pandas.
+
 •Date column converted to datetime format and set as index.
+
 •Exploratory Visualization
+
 •Time-series plot of crude oil prices using matplotlib.
+
 •Trend analysis from 2000–2016.
 
 ECONOMETRIC ANALYSIS
 
 •OLS regression performed using statsmodels to estimate how oil prices affect inflation.
+
 •Autocorrelation test (Durbin-Watson statistic) applied to check serial correlation in residuals.
 
 Key Findings
